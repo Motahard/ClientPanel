@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
-    "firebase": "^7.1.0",
+    "firebase": "^10.9.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-redux": "^5.1.2",
